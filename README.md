@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square&color=blue" alt="Profile Views"/>
   <a href="https://linkedin.com/in/[YOUR_LINKEDIN_PROFILE]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -61,7 +62,24 @@ Here are some of the projects I've worked on for my courses.
 
 ---
 
-### 📊 My GitHub Stats
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🎯 My Goals for 2025
+
+-   [ ] Learn the fundamentals of Data Analysis with **Pandas** and **NumPy**.
+-   [ ] Build my first data visualization project using **Matplotlib** or **Seaborn**.
+-   [ ] Get comfortable with advanced **SQL** concepts.
+-   [ ] Contribute to an open-source project.
+
+---
+
+### 📊 My GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -70,4 +88,8 @@ Here are some of the projects I've worked on for my courses.
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  </p>
 
