@@ -1,22 +1,73 @@
-# 💫 About Me:
-Hi, I am Surya Prakash, I am in first year of my college, pursuing B-tech degree in Computer Science and Engineering.<br>I am studying in UPES, Dehradun . 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USER/REPO/main/path/to/your/banner.png" alt="Header Banner"/>
+  </p>
 
+<h1 align="center">
+  Hi there, I'm [Your Name]
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<p align="center">
+  A first-year Computer Science student at <strong>UPES Dehradun</strong> with a specialization in <strong>Data Science</strong>. 
+  <br />
+  I'm passionate about building things with code and exploring the world of data.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.suryaprakash_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SuryaPrakashSharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaprkash778@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suryaprkash778-dot&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=suryaprkash778-dot&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprkash778-dot&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suryaprkash778-dot&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_PROFILE]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:[YOUR_EMAIL@gmail.com]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suryaprkash778-dot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+-   🎓 I'm currently pursuing my **B.Tech in Computer Science** at the University of Petroleum and Energy Studies (UPES).
+-   🌱 My main focus right now is strengthening my foundations in **Python, C++, and SQL**.
+-   🚀 I'm on a journey to complete the **#100DaysOfCode challenge** to build a consistent coding habit.
+-   💪 Outside of tech, I'm into **strength training** (Push/Pull/Legs) and staying active.
+-   🌏 I'm an aspiring traveler, with **Europe and Japan** on my bucket list!
+
+---
+
+### 🚀 Tech Stack & Tools
+
+This is the tech I'm currently learning and working with.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,sqlite,html,css" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  </a>
+</p>
+
+---
+
+### ✨ Featured Projects
+
+Here are some of the projects I've worked on for my courses.
+
+| Project Title                                                  | Description                                                                                             | Tech Used                                                                                             |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 🌊 **Case Study: Impact of Coral Bleaching** | An in-depth analysis of the environmental factors and consequences of coral bleaching on marine ecosystems. | ![Research](https://img.shields.io/badge/Research-blue) ![Presentation](https://img.shields.io/badge/PPT-orange) |
+| 🏔️ **Case Study: Uttarakhand Disaster at Dharali Village** | A case study examining the causes, impacts, and disaster management response related to the flash floods in Dharali village. | ![Research](https://img.shields.io/badge/Research-blue) ![Analysis](https://img.shields.io/badge/Analysis-green) |
+| 🧠 **Presentation: Amygdala Hijack** | A project explaining the neuroscience behind emotional responses, with a personal story as a case study.    | ![Psychology](https://img.shields.io/badge/Psychology-purple) ![Presentation](https://img.shields.io/badge/PPT-orange) |
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
