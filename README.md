@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Surya Prakash, I am in first year of my college, pursuing B-tech degree in Computer Science and Engineering.<br>I am studying in UPES, Dehradun . 
+Hi, I am Surya Prakash, First-year Computer Science undergraduate at UPES, Dehradun. I possess a keen interest in Data science and machine learning  and am committed to applying my academic knowledge to solve real-world problems. I am open to connecting with industry professionals and exploring future internship opportunities.
 
 
 ## 🌐 Socials:
