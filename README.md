@@ -10,12 +10,22 @@ First-year Computer Science undergraduate at UPES, Dehradun. I possess a keen in
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
 # 📊 My GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=ffffff&text_color=20e2b8&icon_color=39c5f4&border_color=39c5f4&border_radius=30" alt="Surya's GitHub Stats" width="450"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=suryaprkash778-dot&background=0d1117&stroke=ffffff&ring=39c5f4&fire=39c5f4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=20e2b8&sideLabels=20e2b8&dates=20e2b8&hide_border=false&border_radius=30&border=39c5f4" alt="Surya's GitHub Streak" width="450"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=20e2b8&border_color=39c5f4&border_radius=30" alt="Surya's Top Languages" width="450"/>
+<p align="center">
+  <table border="0">
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=ffffff&text_color=20e2b8&icon_color=39c5f4&border_color=39c5f4&border_radius=30" alt="Surya's GitHub Stats" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=20e2b8&border_color=39c5f4&border_radius=30" alt="Surya's Top Languages" />
+      </td>
+      <td valign="top">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=suryaprkash778-dot&background=0d1117&stroke=ffffff&ring=39c5f4&fire=39c5f4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=20e2b8&sideLabels=20e2b8&dates=20e2b8&hide_border=false&border_radius=30&border=39c5f4" alt="Surya's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 # 🔝 Top Contributed Repo
