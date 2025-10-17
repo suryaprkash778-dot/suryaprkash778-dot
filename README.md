@@ -12,9 +12,11 @@ First-year Computer Science undergraduate at UPES, Dehradun. I possess a keen in
 
 # 📊 My GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=ffffff&text_color=20e2b8&icon_color=39c5f4&border_color=39c5f4&border_radius=30)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=suryaprkash778-dot&background=0d1117&stroke=ffffff&ring=39c5f4&fire=39c5f4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=20e2b8&sideLabels=20e2b8&dates=20e2b8&hide_border=false&border_radius=30&border=39c5f4)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=20e2b8&border_color=39c5f4&border_radius=30)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=ffffff&text_color=20e2b8&icon_color=39c5f4&border_color=39c5f4&border_radius=30" alt="Surya's GitHub Stats" width="450"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=suryaprkash778-dot&background=0d1117&stroke=ffffff&ring=39c5f4&fire=39c5f4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=20e2b8&sideLabels=20e2b8&dates=20e2b8&hide_border=false&border_radius=30&border=39c5f4" alt="Surya's GitHub Streak" width="450"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=20e2b8&border_color=39c5f4&border_radius=30" alt="Surya's Top Languages" width="450"/>
+</p>
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=suryaprkash778-dot&limit=5&combine_all_yearly_contributions=true&bg_color=0D1117&border_color=39C5F4&border_radius=30&title_color=FFFFFF&text_color=20E2B8)
