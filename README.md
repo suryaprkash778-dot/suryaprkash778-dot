@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="URL_FOR_YOUR_BANNER_IMAGE" alt="Code Banner">
-</p>
 # Hi there, I'm Surya Prakash 👋
 
 ## 💫 About Me:
