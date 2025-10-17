@@ -17,3 +17,6 @@ Hi, I am Surya Prakash, First-year Computer Science undergraduate at UPES, Dehra
 
 ---
 [![](https://visitcount.itsvg.in/api?id=suryaprkash778-dot&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Thank you for visiting my profile! Let’s build something amazing together. 🚀
+
