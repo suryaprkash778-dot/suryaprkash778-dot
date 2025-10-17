@@ -15,7 +15,7 @@ First-year Computer Science undergraduate at UPES, Dehradun. I possess a keen in
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=20E2B8&border_color=39C5F4&border_radius=30)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suryaprkash778-dot&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=suryaprkash778-dot&limit=5&combine_all_yearly_contributions=true&bg_color=0D1117&border_color=39C5F4&border_radius=30&title_color=FFFFFF&text_color=20E2B8)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=suryaprkash778-dot&icon=0&color=0)](https://visitcount.itsvg.in)
