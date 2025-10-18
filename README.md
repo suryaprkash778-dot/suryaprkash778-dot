@@ -13,18 +13,11 @@ First-year Computer Science undergraduate at UPES, Dehradun. I possess a keen in
 # 📊 My GitHub Stats:
 
 <p align="center">
-  <table border="0">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=ffffff&text_color=20e2b8&icon_color=39c5f4&border_color=39c5f4&border_radius=30&theme=tokyonight" alt="Surya's GitHub Stats" />
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=20e2b8&border_color=39c5f4&border_radius=30&theme=tokyonight" alt="Surya's Top Languages" />
-      </td>
-      <td valign="top">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=suryaprkash778-dot&background=0d1117&stroke=ffffff&ring=39c5f4&fire=39c5f4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=20e2b8&sideLabels=20e2b8&dates=20e2b8&hide_border=false&border_radius=30&border=39c5f4&theme=tokyonight" alt="Surya's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=ffffff&text_color=20e2b8&icon_color=39c5f4&border_color=39c5f4&border_radius=30&theme=tokyonight" alt="Surya's GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=suryaprkash778-dot&background=0d1117&stroke=ffffff&ring=39c5f4&fire=39c5f4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=20e2b8&sideLabels=20e2b8&dates=20e2b8&hide_border=false&border_radius=30&border=39c5f4&theme=tokyonight" alt="Surya's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=20e2b8&border_color=39c5f4&border_radius=30&theme=tokyonight" alt="Surya's Top Languages" />
 </p>
 
 # 🔝 Top Contributed Repo
