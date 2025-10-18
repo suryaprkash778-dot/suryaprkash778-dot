@@ -20,9 +20,9 @@ First-year Computer Science undergraduate at UPES, Dehradun. I possess a keen in
 </p>
 
 
+## 🔝 Top Contributed Repo
 
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suryaprkash778-dot&limit=5&combine_all_yearly_contributions=true&bg_color=0D1117&border_color=39C5F4&border_radius=30&title_color=FFFFFF&text_color=20E2B8)
+![](https://github-contributor-stats.vercel.app/api?username=suryaprkash778-dot&limit=5&combine_all_yearly_contributions=true&bg_color=0D1117&border_color=39C5F4&border_radius=30&title_color=20E2B8&text_color=ffffff)
 
 
 ---
