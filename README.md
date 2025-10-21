@@ -1,12 +1,12 @@
 # Hi there, I'm Surya Prakash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-# 💫 About Me:
+## 💫 About Me:
 First-year Computer Science undergraduate at UPES, Dehradun. I possess a keen interest in Data science and machine learning  and am committed to applying my academic knowledge to solve real-world problems. I am open to connecting with industry professionals and exploring future internship opportunities.
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im.suryaprakash_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SuryaPrakashSharma) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryaprkash778@gmail.com)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 My GitHub Stats
@@ -23,6 +23,13 @@ First-year Computer Science undergraduate at UPES, Dehradun. I possess a keen in
 ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=suryaprkash778-dot&limit=5&combine_all_yearly_contributions=true&bg_color=0D1117&border_color=39C5F4&border_radius=30&title_color=20E2B8&text_color=ffffff)
+
+## 🚀 Featured Projects
+
+- **Flashcard CLI App** – Open source contribution with CI integration and spaced repetition logic.
+- **AWS EC2 Web Hosting** – Automated deployment using Apache, shell scripts, and MFA setup.
+- **README Generator** – Node.js tool using `npx` for templated README creation.
+
 
 
 ---
