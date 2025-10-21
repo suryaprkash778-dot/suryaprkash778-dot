@@ -4,7 +4,7 @@ A Computer Science undergraduate at UPES Dehradun with a passion for scripting, 
 I’m known for my methodical approach and eye for visual detail — whether it’s deploying web apps, contributing to open source. Outside tech, I love hiking, biking, and exploring new places with friends and family.
 
 
-## 🌐 Socials:
+## # 🤝 Let's be friends and get connected!:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im.suryaprakash_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SuryaPrakashSharma) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryaprkash778@gmail.com)
 
 ## 💻 Tech Stack:
