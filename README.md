@@ -1,6 +1,7 @@
 # Hi there, I'm Surya Prakash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## 💫 About Me:
-First-year Computer Science undergraduate at UPES, Dehradun. I possess a keen interest in Data science and machine learning  and am committed to applying my academic knowledge to solve real-world problems. I am open to connecting with industry professionals and exploring future internship opportunities.
+A Computer Science undergraduate at UPES Dehradun with a passion for scripting, automation, and cloud infrastructure. I specialize in Bash, CMD, and Python, and enjoy building scalable systems that solve real-world problems.
+I’m known for my methodical approach and eye for visual detail — whether it’s deploying web apps, contributing to open source. Outside tech, I love hiking, biking, and exploring new places with friends and family.
 
 
 ## 🌐 Socials:
