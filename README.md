@@ -26,7 +26,7 @@ First-year Computer Science undergraduate at UPES, Dehradun. I possess a keen in
 
 ## 🚀 Featured Projects
 
-- **Flashcard CLI App** – Open source contribution with CI integration and spaced repetition logic.
+- **Flashcard CLI App** – A language learning tool built with Python's tkinter GUI framework. It features interactive flashcards for Spanish vocabulary, powered by data mining techniques that extract and rank words based on their frequency from Wikipedia.
 - **AWS EC2 Web Hosting** – Automated deployment using Apache, shell scripts, and MFA setup.
 - **README Generator** – Node.js tool using `npx` for templated README creation.
 
