@@ -30,7 +30,8 @@ First-year Computer Science undergraduate at UPES, Dehradun. I possess a keen in
 - **AWS EC2 Web Hosting** – Automated deployment using Apache, shell scripts, and MFA setup.
 - **README Generator** – Node.js tool using `npx` for templated README creation.
 
-
+## 🥰 My Interests  
+🐣 **Spending time with my family and friends** • 🚴🏼‍♀️ **Riding my bike** • 🌲 **Hiking in nature** • ✈️ **Traveling** • 🎬 **Going to the cinema**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=suryaprkash778-dot&icon=0&color=0)](https://visitcount.itsvg.in)
