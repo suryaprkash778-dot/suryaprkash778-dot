@@ -29,7 +29,7 @@ I’m known for my methodical approach and eye for visual detail — whether it�
 
 - **Flashcard CLI App** – A language learning tool built with Python's tkinter GUI framework. It features interactive flashcards for Spanish vocabulary, powered by data mining techniques that extract and rank words based on their frequency from Wikipedia.
 - **AWS EC2 Web Hosting** – Automated deployment using Apache, shell scripts, and MFA setup.
-- **README Generator** – Node.js tool using `npx` for templated README creation.
+- **Quizzler App** – A sleek Python-based quiz application built with tkinter. It fetches trivia questions from the Open Trivia DB API, presents them in an interactive GUI, and tracks the user’s score in real time. Designed for fast iteration and clean UX, it’s a great showcase of API integration and GUI responsiveness.
 
 ## 🥰 My Interests  
 🐣 **Spending time with my family and friends** • 🚴🏼‍♀️ **Riding my bike** • 🌲 **Hiking in nature** • ✈️ **Traveling** • 🎬 **Going to the cinema**
