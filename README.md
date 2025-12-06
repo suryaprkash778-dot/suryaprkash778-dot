@@ -1,9 +1,10 @@
 # Hi there, I'm Surya Prakash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=600&lines=CS+Undergraduate+at+UPES+Dehradun;Passionate+about+Automation+and+Cloud+Infrastructure;Skilled+in+Bash%2C+CMD%2C+Python;Building+Scalable+Real-World+Systems;Experience+in+Web+Apps+and+Open+Source;Love+Hiking%2C+Biking%2C+Exploring+with+Friends+and+Family)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+there!+I+am+Surya+Prakash;First+Year+B.Tech+CSE+Student+at+UPES;Passionate+about+AI%2FML+and+Coding;Fluent+in+English+%7C+Hindi;A+Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
+
 
 ## 👋 About Me
 
