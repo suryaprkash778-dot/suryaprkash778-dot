@@ -1,7 +1,22 @@
 # Hi there, I'm Surya Prakash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## 💫 About Me:
-A Computer Science undergraduate at UPES Dehradun with a passion for scripting, automation, and cloud infrastructure. I specialize in Bash, CMD, and Python, and enjoy building scalable systems that solve real-world problems.
-I’m known for my methodical approach and eye for visual detail — whether it’s deploying web apps, contributing to open source. Outside tech, I love hiking, biking, and exploring new places with friends and family.
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=600&lines=CS+Undergraduate+at+UPES+Dehradun;Passionate+about+Automation+and+Cloud+Infrastructure;Skilled+in+Bash%2C+CMD%2C+Python;Building+Scalable+Real-World+Systems;Experience+in+Web+Apps+and+Open+Source;Love+Hiking%2C+Biking%2C+Exploring+with+Friends+and+Family)](https://git.io/typing-svg)
+
+</div>
+
+## 👋 About Me
+
+- 🎓 Computer Science undergraduate at **UPES Dehradun**  
+- 💻 Passionate about **scripting, automation, and cloud infrastructure**  
+- 🛠 Skilled in **Bash, CMD, and Python**  
+- ⚙️ Focused on building **scalable, real-world systems**  
+- 📐 Known for a **methodical approach** and strong **visual detail**  
+- 🌐 Experience in **web app deployment** and **open-source contributions**  
+- 🚴 Outside tech: enjoy **hiking, biking, and exploring new places** with friends & family  
+
+---
+
 
 
 
