@@ -3,9 +3,17 @@
 A Computer Science undergraduate at UPES Dehradun with a passion for scripting, automation, and cloud infrastructure. I specialize in Bash, CMD, and Python, and enjoy building scalable systems that solve real-world problems.
 I’m known for my methodical approach and eye for visual detail — whether it’s deploying web apps, contributing to open source. Outside tech, I love hiking, biking, and exploring new places with friends and family.
 
+## 🤝 Let's be friends and get connected!:
 
-##  🤝 Let's be friends and get connected!:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im.suryaprakash_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SuryaPrakashSharma) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryaprkash778@gmail.com)
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/im.suryaprakash_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SuryaPrakashSharma) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryaprkash778@gmail.com) 
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/_imSuryaPrakash)
+
+</div>
+
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
