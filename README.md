@@ -1,3 +1,7 @@
+ <p align="center">
+      <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
+</p>
+
 <div align="center">
 
 # Hi there, I'm Surya Prakash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
