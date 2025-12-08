@@ -26,45 +26,45 @@
 - 🚴 Outside tech: enjoy **hiking, biking, and exploring new places** with friends & family  
 
 
+## 💻 Tech Stack  
 
-
-
-
-## 💻 Tech Stack:
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,git,linux,vscode,github" alt="Tech Stack"/>
+</p>
 
 ## 🤝 Let's be friends and get connected!:
 
 <div align="center">
 
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <!-- GitHub -->
+  <a href="https://github.com/suryaprkash778-dot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin: 0 30px;"/>
   </a>
-  <a href="https://linkedin.com/in/YourLinkedInUsername">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/YourLinkedInUsername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin: 0 30px;"/>
   </a>
-  <a href="https://x.com/YourXHandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/YourXHandle" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" style="margin: 0 30px;"/>
   </a>
-  <a href="https://instagram.com/YourInstagramHandle">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/YourInstagramHandle" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="margin: 0 30px;"/>
   </a>
+
+  <!-- Email -->
   <a href="mailto:YourEmail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" style="margin: 0 30px;"/>
   </a>
 
 </div>
+
+</div>
+
 
 
 ## 📊 My GitHub Stats
