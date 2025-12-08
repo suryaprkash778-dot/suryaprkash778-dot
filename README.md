@@ -119,3 +119,7 @@
 
 </div>
 
+<p align="center">
+  <img src="https://github.com/<username>/<repo>/blob/main/assets/mygif.gif?raw=true" width="300" alt="My GIF">
+</p>
+
