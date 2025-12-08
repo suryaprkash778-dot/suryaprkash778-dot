@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
       <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
 </p>
 
@@ -17,54 +17,54 @@
 
 ## 👋 About Me
 
-- 🎓 Computer Science undergraduate at **UPES Dehradun**  
-- 💻 Passionate about **scripting, automation, and cloud infrastructure**  
-- 🛠 Skilled in **Bash, CMD, and Python**  
-- ⚙️ Focused on building **scalable, real-world systems**  
-- 📐 Known for a **methodical approach** and strong **visual detail**  
-- 🌐 Experience in **web app deployment** and **open-source contributions**  
-- 🚴 Outside tech: enjoy **hiking, biking, and exploring new places** with friends & family  
+- 🎓 Computer Science undergraduate at *UPES Dehradun*  
+- 💻 Passionate about *scripting, automation, and cloud infrastructure*  
+- 🛠 Skilled in *Bash, CMD, and Python*  
+- ⚙ Focused on building *scalable, real-world systems*  
+- 📐 Known for a *methodical approach* and strong *visual detail*  
+- 🌐 Experience in *web app deployment* and *open-source contributions*  
+- 🚴 Outside tech: enjoy *hiking, biking, and exploring new places* with friends & family  
 
 
-## 💻 Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,git,linux,vscode,github" alt="Tech Stack"/>
-</p>
+
+
+
+## 💻 Tech Stack:
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
 
 ## 🤝 Let's be friends and get connected!:
 
 <div align="center">
 
-  <!-- GitHub -->
-  <a href="https://github.com/suryaprkash778-dot" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin: 0 30px;"/>
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YourLinkedInUsername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin: 0 30px;"/>
+  <a href="https://linkedin.com/in/YourLinkedInUsername">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/YourXHandle" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" style="margin: 0 30px;"/>
+  <a href="https://x.com/YourXHandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/YourInstagramHandle" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="margin: 0 30px;"/>
+  <a href="https://instagram.com/YourInstagramHandle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
-  <!-- Email -->
   <a href="mailto:YourEmail@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" style="margin: 0 30px;"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 </div>
-
-</div>
-
 
 
 ## 📊 My GitHub Stats
@@ -94,15 +94,15 @@
 
 ## 🚀 Featured Projects
 
-- **Flashcard CLI App** – A language learning tool built with Python's tkinter GUI framework. It features interactive flashcards for Spanish vocabulary, powered by data mining techniques that extract and rank words based on their frequency from Wikipedia.
+- *Flashcard CLI App* – A language learning tool built with Python's tkinter GUI framework. It features interactive flashcards for Spanish vocabulary, powered by data mining techniques that extract and rank words based on their frequency from Wikipedia.
   
  <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20193300.png?raw=true" style="width:100%; display:block; margin-top:10px;" />
  
-- **AWS EC2 Web Hosting** – Automated deployment using Apache, shell scripts, and MFA setup.
+- *AWS EC2 Web Hosting* – Automated deployment using Apache, shell scripts, and MFA setup.
 
 <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20194805.png?raw=true" style="width:100%; display:block; margin-top:10px;" />
 
-- **Quizzler App** – A sleek Python-based quiz application built with tkinter. It fetches trivia questions from the Open Trivia DB API, presents them in an interactive GUI, and tracks the user’s score in real time. Designed for fast iteration and clean UX, it’s a great showcase of API integration and GUI responsiveness.
+- *Quizzler App* – A sleek Python-based quiz application built with tkinter. It fetches trivia questions from the Open Trivia DB API, presents them in an interactive GUI, and tracks the user’s score in real time. Designed for fast iteration and clean UX, it’s a great showcase of API integration and GUI responsiveness.
 
 <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20193523.png?raw=true" style="width:100%; display:block; margin-top:10px;" />
 
@@ -110,12 +110,12 @@
 ## 🥰 My Interests  
 <div align="center">
 
-🐣 **Spending time with my family and friends** • 🚴🏼‍♀️ **Riding my bike** • 🌲 **Hiking in nature** • ✈️ **Traveling** • 🎬 **Going to the cinema**
+🐣 *Spending time with my family and friends* • 🚴🏼‍♀ *Riding my bike* • 🌲 *Hiking in nature* • ✈ *Traveling* • 🎬 *Going to the cinema*
 
 
 [![](https://visitcount.itsvg.in/api?id=suryaprkash778-dot&icon=0&color=0)](https://visitcount.itsvg.in)  
 
-✨ **Thank you for visiting my profile! Let’s build something amazing together**. ✨
+✨ *Thank you for visiting my profile! Let’s build something amazing together*. ✨
 
 </div>
 
