@@ -94,15 +94,15 @@
 
 ## 🚀 **Featured Projects** :
 
-- ***Flashcard CLI App*** – A language learning tool built with Python's tkinter GUI framework. It features interactive flashcards for Spanish vocabulary, powered by data mining techniques that extract and rank words based on their frequency from Wikipedia.
+- ***Flashcard CLI App*** :– A language learning tool built with Python's tkinter GUI framework. It features interactive flashcards for Spanish vocabulary, powered by data mining techniques that extract and rank words based on their frequency from Wikipedia.
   
  <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20193300.png?raw=true" style="width:100%; display:block; margin-top:10px;" />
  
-- ***AWS EC2 Web Hosting*** – Automated deployment using Apache, shell scripts, and MFA setup.
+- ***AWS EC2 Web Hosting*** :– Automated deployment using Apache, shell scripts, and MFA setup.
 
 <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20194805.png?raw=true" style="width:100%; display:block; margin-top:10px;" />
 
-- ***Quizzler App*** – A sleek Python-based quiz application built with tkinter. It fetches trivia questions from the Open Trivia DB API, presents them in an interactive GUI, and tracks the user’s score in real time. Designed for fast iteration and clean UX, it’s a great showcase of API integration and GUI responsiveness.
+- ***Quizzler App*** :– A sleek Python-based quiz application built with tkinter. It fetches trivia questions from the Open Trivia DB API, presents them in an interactive GUI, and tracks the user’s score in real time. Designed for fast iteration and clean UX, it’s a great showcase of API integration and GUI responsiveness.
 
 <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20193523.png?raw=true" style="width:100%; display:block; margin-top:10px;" />
 
