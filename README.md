@@ -15,7 +15,7 @@
 </div>
 
 
-## 👋 **About Me**
+## 👋 **About Me** :
 
 - 🎓 Computer Science undergraduate at *UPES Dehradun*  
 - 💻 Passionate about *scripting, automation, and cloud infrastructure*  
@@ -30,7 +30,7 @@
 
 
 
-## 💻 **Tech Stack**:
+## 💻 **Tech Stack** :
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 </div>
 
 
-## 🤝 **Let's be friends and get connected!**:
+## 🤝 **Let's be friends and get connected!** :
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 </div>
 
 
-## 📊 **My GitHub Stats**
+## 📊 **My GitHub Stats** :
 
 
 <div align="center">
@@ -84,7 +84,7 @@
 
 
 
-## 🔝 **Top Contributed Repo**
+## 🔝 **Top Contributed Repo** :
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=suryaprkash778-dot&limit=5&combine_all_yearly_contributions=true&bg_color=0D1117&border_color=39C5F4&border_radius=30&title_color=20E2B8&text_color=ffffff)
@@ -92,7 +92,7 @@
 </div>
 
 
-## 🚀 **Featured Projects**
+## 🚀 **Featured Projects** :
 
 - ***Flashcard CLI App*** – A language learning tool built with Python's tkinter GUI framework. It features interactive flashcards for Spanish vocabulary, powered by data mining techniques that extract and rank words based on their frequency from Wikipedia.
   
@@ -107,7 +107,7 @@
 <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20193523.png?raw=true" style="width:100%; display:block; margin-top:10px;" />
 
 
-## 🥰 **My Interests**
+## 🥰 **My Interests** :
 <div align="center">
 
 🐣 ***Spending time with my family and friends*** • 🚴🏼‍♀ ***Riding my bike*** • 🌲 ***Hiking in nature*** • ✈ ***Traveling*** • 🎬 ***Going to the cinema***
