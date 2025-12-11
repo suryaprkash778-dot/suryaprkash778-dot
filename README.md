@@ -44,21 +44,24 @@
 </div>
 
 
-## 🤝 **Let's be friends and get connected!** :
+## 🤝 **Let's be friends and get connected!**
 
 <div align="center">
 
-  <a href="https://github.com/YourGitHubUsername">
+  <a href="https://github.com/_imSuryaPrakash">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YourLinkedInUsername">
+  <a href="https://linkedin.com/in/surya-prakash">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/YourInstagramHandle">
+  <a href="https://instagram.com/_imSuryaPrakash">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:YourEmail@example.com">
+  <a href="mailto:surya.prakash@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/_imSuryaPrakash">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
 </div>
