@@ -100,12 +100,21 @@
 
 
 
-## 🔝 **Top Contributed Repo** :
+## 🔝 **My Statistics** :
+
+
+
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=suryaprkash778-dot&limit=5&combine_all_yearly_contributions=true&bg_color=0D1117&border_color=39C5F4&border_radius=30&title_color=20E2B8&text_color=ffffff)
+  <!-- GitHub Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=suryaprkash778-dot&theme=github-light&hide_border=true&area=true&area_color=0078D4&line=0078D4&point=FF6B35" 
+    alt="GitHub Activity Graph of Surya Prakash"
+    width="95%"
+  />
 
 </div>
+
 
 
 ## 🚀 **Featured Projects** :
