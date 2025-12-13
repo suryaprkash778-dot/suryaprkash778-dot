@@ -100,7 +100,7 @@
 
 
 
-## 🔝 **My Statistics** :
+## 📊 **My Statistics** :
 
 
 
