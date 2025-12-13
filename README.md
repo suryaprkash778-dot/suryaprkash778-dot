@@ -89,18 +89,6 @@
   </tr>
 </table>
 
-<!-- Bottom row: Main Stats -->
-<div align="center">
-  <img 
-    height="195"
-    src="https://github-readme-stats.vercel.app/api?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=20E2B8&text_color=ffffff&icon_color=20E2B8&border_color=39c5f4&border_radius=30&theme=tokyonight"
-    alt="Surya's GitHub Stats"
-  />
-</div>
-
-
-
-## 📊 **My Statistics** :
 
 
 
