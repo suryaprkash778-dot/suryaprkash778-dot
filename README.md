@@ -9,8 +9,9 @@
 </div>
 
 <div align="center">
+      
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+there!+I+am+Surya+Prakash;First+Year+B.Tech+CSE+Student+at+UPES;Passionate+about+AI%2FML+and+Coding;Fluent+in+English+%7C+Hindi+%7C+German;A+Lifelong+Learner)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+there!+I+am+Surya+Prakash;First+Year+B.Tech+CSE+Student+at+UPES;Passionate+about+AI%2FML+and+Coding;Fluent+in+English+%7C+Hindi;A+Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
 
