@@ -45,7 +45,7 @@
 </div>
 
 
-## 🤝 **Let's be friends and get connected!**
+## 🤝 **Let's be friends and get connected!** :
 
 <div align="center">
 
