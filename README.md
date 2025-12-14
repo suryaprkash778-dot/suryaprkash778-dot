@@ -67,7 +67,7 @@
 
 </div>
 
-## 📊 <strong>My GitHub Stats</strong>
+## 📊 <strong>My GitHub Stats</strong> :
 
 <!-- Top row: Streak + Top Languages -->
 <table align="center">
