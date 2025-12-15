@@ -104,7 +104,7 @@
 </div>
 
 
-## 🚀 **Featured Projects**
+## 🚀 **Featured Projects** :
 
 - ***Flashcard CLI App*** :- A Python–tkinter language learning tool that mines Wikipedia to extract high‑frequency Spanish vocabulary and generates interactive flashcards.
 
