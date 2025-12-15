@@ -110,13 +110,13 @@
 
 <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20193300.png?raw=true" style="width:100%; display:block; margin-top:10px;" />
 
----
+
 
 - ***AWS EC2 Web Hosting*** :- Automated deployment using Apache, shell scripts, and MFA-secured access. Demonstrates end‑to‑end hosting on AWS EC2.
 
 <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20194805.png?raw=true" style="width:100%; display:block; margin-top:10px;" />
 
----
+
 
 - ***Quizzler App*** :- A responsive Python + tkinter quiz app that fetches trivia from the Open Trivia DB API and tracks scores in real time.
 
