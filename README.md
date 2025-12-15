@@ -106,36 +106,25 @@
 
 ## 🚀 **Featured Projects**
 
-<table>
-  <!-- Row 1: Images -->
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20193300.png?raw=true" width="100%" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20194805.png?raw=true" width="100%" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20193523.png?raw=true" width="100%" />
-    </td>
-  </tr>
+### ***Flashcard CLI App***
+A Python–tkinter language learning tool that mines Wikipedia to extract high‑frequency Spanish vocabulary and generates interactive flashcards.
 
-  <!-- Row 2: Titles + Descriptions -->
-  <tr>
-    <td align="center" width="33%">
-      <h3><strong><em>Flashcard CLI App</em></strong></h3>
-      <p>A language learning tool built with Python's tkinter GUI framework. It features interactive flashcards for Spanish vocabulary, powered by data mining techniques that extract and rank words based on their frequency from Wikipedia.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3><strong><em>AWS EC2 Web Hosting</em></strong></h3>
-      <p>Automated deployment using Apache, shell scripts, and MFA-secured access. Demonstrates end‑to‑end hosting on AWS EC2.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3><strong><em>Quizzler App</em></strong></h3>
-      <p> A sleek Python-based quiz application built with tkinter. It fetches trivia questions from the Open Trivia DB API, presents them in an interactive GUI, and tracks the user’s score in real time.</p>
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20193300.png?raw=true" style="width:100%; display:block; margin-top:10px;" />
+
+---
+
+### ***AWS EC2 Web Hosting***
+Automated deployment using Apache, shell scripts, and MFA-secured access. Demonstrates end‑to‑end hosting on AWS EC2.
+
+<img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20194805.png?raw=true" style="width:100%; display:block; margin-top:10px;" />
+
+---
+
+### ***Quizzler App***
+A responsive Python + tkinter quiz app that fetches trivia from the Open Trivia DB API and tracks scores in real time.
+
+<img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/Screenshot%202025-10-25%20193523.png?raw=true" style="width:100%; display:block; margin-top:10px;" />
+
 
 
 
