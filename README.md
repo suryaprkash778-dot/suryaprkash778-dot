@@ -31,18 +31,19 @@
 
 
 
-## 💻 **Tech Stack** :
+## 💻 **Tech Stack**
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/python.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/c.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/linux.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/github.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/git.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/vscode.svg" width="50"/>
 
 </div>
+
 
 
 ## 🤝 **Let's be friends and get connected!** :
