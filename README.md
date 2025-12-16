@@ -51,26 +51,27 @@
 <div align="center">
 
   <a href="https://github.com/_imSuryaPrakash">
-    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/github.svg" width="60"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/github.svg" width="50"/>
   </a>
 
-  <a href="https://linkedin.com/in/surya-prakash">
-    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/LinkedIn_icon_circle.svg" width="60"/>
+  <a href="https://www.linkedin.com/in/surya-prakash-sharma-329a122b7/">
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/LinkedIn_icon_circle.svg" width="50"/>
   </a>
 
   <a href="https://instagram.com/_imSuryaPrakash">
-    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/instagram.svg" width="60"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/instagram.svg" width="50"/>
   </a>
 
   <a href="mailto:surya.prakash@example.com">
-    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/gmail.svg" width="60"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/gmail.svg" width="50"/>
   </a>
 
   <a href="https://x.com/_imSuryaPrakash">
-    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/twitter-x-logo-black-round-20851.svg" width="60"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/twitter-x-logo-black-round-20851.svg" width="50"/>
   </a>
 
 </div>
+
 
 
 ## 📊 <strong>My GitHub Stats</strong> :
