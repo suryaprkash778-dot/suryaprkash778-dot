@@ -35,12 +35,12 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/python.svg" width="65"/>
-<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/c.svg" width="65"/>
-<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/linux.svg" width="65"/>
-<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/github.svg" width="65"/>
-<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/git.svg" width="65"/>
-<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/vscode.svg" width="65"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/python.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/c.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/linux.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/github.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/git.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/vscode.svg" width="60"/>
 
 </div>
 
