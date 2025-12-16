@@ -144,10 +144,7 @@
 
 ✨ ***Thank you for visiting my profile! Let’s build something amazing together***. ✨
 
-</div>
+<br/>
 
-<p align="center">
-  <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/tenor.gif?raw=true" width="500" alt="Surya GIF">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" width="100%"/>
 
----
