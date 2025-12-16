@@ -46,27 +46,32 @@
 
 
 
-## 🤝 **Let's be friends and get connected!** :
+## 🤝 **Let's be friends and get connected!**
 
 <div align="center">
 
   <a href="https://github.com/_imSuryaPrakash">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/github.svg" width="60"/>
   </a>
+
   <a href="https://linkedin.com/in/surya-prakash">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/LinkedIn_icon_circle.svg" width="60"/>
   </a>
+
   <a href="https://instagram.com/_imSuryaPrakash">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/instagram.svg" width="60"/>
   </a>
+
   <a href="mailto:surya.prakash@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/gmail.svg" width="60"/>
   </a>
+
   <a href="https://x.com/_imSuryaPrakash">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/twitter-x-logo-black-round-20851.svg" width="60"/>
   </a>
 
 </div>
+
 
 ## 📊 <strong>My GitHub Stats</strong> :
 
