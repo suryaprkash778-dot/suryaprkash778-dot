@@ -128,19 +128,20 @@
 
   <tr>
     <td align="center">
-      <b>Flashcard CLI App</b><br>
+      <b><i>Flashcard CLI App</i></b><br>
       Python–tkinter app that mines Wikipedia for high‑frequency Spanish vocabulary and generates interactive flashcards.
     </td>
     <td align="center">
-      <b>AWS EC2 Web Hosting</b><br>
+      <b><i>AWS EC2 Web Hosting</i></b><br>
       Automated deployment using Apache, shell scripts, and MFA‑secured access on AWS EC2.
     </td>
     <td align="center">
-      <b>Quizzler App</b><br>
+      <b><i>Quizzler App</i></b><br>
       Responsive Python + tkinter quiz app fetching trivia from Open Trivia DB with real‑time scoring.
     </td>
   </tr>
 </table>
+
 
 
 
