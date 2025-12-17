@@ -16,7 +16,7 @@
 </div>
 
 
-## 👋 **About Me** :
+## 👋 ***About Me*** :
 
 - 🎓 Computer Science undergraduate at *UPES Dehradun*  
 - 💻 Passionate about *scripting, automation, and cloud infrastructure*  
@@ -31,7 +31,7 @@
 
 
 
-## 💻 **Tech Stack** :
+## 💻 ***Tech Stack*** :
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 
 
-## 🤝 **Let's be friends and get connected!** :
+## 🤝 ***Let's be friends and get connected!*** :
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 
 
-## 📊 <strong>My GitHub Stats</strong> :
+## 📊 <strong>***My GitHub Stats***</strong> :
 
 <!-- Top row: Streak + Top Languages -->
 <table align="center">
@@ -111,7 +111,7 @@
 </div>
 
 
-## 🚀 **Featured Projects** :
+## 🚀 ***Featured Projects*** :
 
 - ***Flashcard CLI App*** :- A Python–tkinter language learning tool that mines Wikipedia to extract high‑frequency Spanish vocabulary and generates interactive flashcards.
 
@@ -134,7 +134,7 @@
 
 
 
-## 🥰 **My Interests** :
+## 🥰 ***My Interests*** :
 <div align="center">
 
 🐣 ***Spending time with my family and friends*** • 🚴🏼‍♀ ***Riding my bike*** • 🌲 ***Hiking in nature*** • ✈ ***Traveling*** • 🎬 ***Going to the cinema***
