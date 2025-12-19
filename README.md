@@ -145,33 +145,6 @@
 </table>
 
 
-## 📰 ***Top LinkedIn Posts :***
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/posts/your-post-1">
-        <img src="https://your-image-link-1.jpg" width="100%" />
-      </a>
-      <br/>
-      <b>Post Title 1</b>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/posts/your-post-2">
-        <img src="https://your-image-link-2.jpg" width="100%" />
-      </a>
-      <br/>
-      <b>Post Title 2</b>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/posts/your-post-3">
-        <img src="https://your-image-link-3.jpg" width="100%" />
-      </a>
-      <br/>
-      <b>Post Title 3</b>
-    </td>
-  </tr>
-</table>
 
 
 
