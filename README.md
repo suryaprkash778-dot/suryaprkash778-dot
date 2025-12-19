@@ -151,7 +151,7 @@
 ## 🥰 ***My Interests :*** 
 <div align="center">
 
-🐣 ***Spending time with my family and friends*** • 🚴🏼‍♀ ***Riding my bike*** • 🌲 ***Hiking in nature*** • ✈ ***Traveling*** • 🎬 ***Going to the cinema***
+#### 🐣 ***Spending time with my family and friends*** • 🚴🏼‍♀ ***Riding my bike*** • 🌲 ***Hiking in nature*** • ✈ ***Traveling*** • 🎬 ***Going to the cinema***
 
 
 [![](https://visitcount.itsvg.in/api?id=suryaprkash778-dot&icon=0&color=0)](https://visitcount.itsvg.in)  
