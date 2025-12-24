@@ -17,7 +17,7 @@
 
 
 
-## 👋 ***About Me :*** 
+## 👋 ***About Me :-*** 
 
 - 🎓 Computer Science undergraduate at *UPES Dehradun*  
 - 💻 Passionate about *scripting, automation, and cloud infrastructure*  
