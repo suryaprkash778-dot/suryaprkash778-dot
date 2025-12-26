@@ -25,8 +25,21 @@
 - ⚙ Focused on building *scalable, real-world systems*  
 - 📐 Known for a *methodical approach* and strong *visual detail*  
 - 🌐 Experience in *web app deployment* and *open-source contributions*  
-- 🚴 Outside tech: enjoy *hiking, biking, and exploring new places* with friends & family  
+- 🚴 Outside tech: enjoy *hiking, biking, and exploring new places* with friends & family
 
+
+
+## 👋 ***About Me :*** 
+ <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/icons/WhatsApp_Image_2025-12-26_at_08.32.52-removebg-preview.png?raw=true" width="300"/> 
+
+
+- 🎓 Computer Science undergraduate at *UPES Dehradun*  
+- 💻 Passionate about *scripting, automation, and cloud infrastructure*  
+- 🛠 Skilled in *Bash, CMD, and Python*  
+- ⚙ Focused on building *scalable, real-world systems*  
+- 📐 Known for a *methodical approach* and strong *visual detail*  
+- 🌐 Experience in *web app deployment* and *open-source contributions*  
+- 🚴 Outside tech: enjoy *hiking, biking, and exploring new places* with friends & family  
 
 
 
