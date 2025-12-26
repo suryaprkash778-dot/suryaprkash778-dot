@@ -21,7 +21,7 @@
 
 <!--Sticker aside-->
 <div>
-  <img align="right" width="220" src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/icons/WhatsApp_Image_2025-12-26_at_08.32.52-removebg-preview.png?raw=true">
+  <img align="right" width="210" src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/icons/WhatsApp_Image_2025-12-26_at_08.32.52-removebg-preview.png?raw=true">
 </div>
 
 
