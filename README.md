@@ -41,9 +41,11 @@
 <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/github.svg" width="60"/>
 <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/git.svg" width="60"/>
 <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/vscode.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/numpy.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/pandas.svg" width="60"/>
+
 
 </div>
-
 
 
 ## 🤝 ***Let's be friends and get connected! :*** 
