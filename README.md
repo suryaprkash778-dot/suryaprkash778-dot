@@ -133,7 +133,7 @@
 
   <tr>
     <td align="center">
-      <b><i>Flashcard CLI App</i></b><br>
+      <b><i>Flashcard CLI App :</i></b><br>
       Python–tkinter app that mines Wikipedia for high‑frequency Spanish vocabulary and generates interactive flashcards.
     </td>
     <td align="center">
