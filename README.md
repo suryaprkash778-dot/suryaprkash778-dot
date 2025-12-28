@@ -141,7 +141,7 @@
       Automated deployment using Apache, shell scripts, and MFA‑secured access on AWS EC2.
     </td>
     <td align="center">
-      <b><i>Quizzler App</i></b><br>
+      <b><i>Quizzler App :</i></b><br>
       Responsive Python + tkinter quiz app fetching trivia from Open Trivia DB with real‑time scoring.
     </td>
   </tr>
