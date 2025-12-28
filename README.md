@@ -137,7 +137,7 @@
       Python–tkinter app that mines Wikipedia for high‑frequency Spanish vocabulary and generates interactive flashcards.
     </td>
     <td align="center">
-      <b><i>AWS EC2 Web Hosting</i></b><br>
+      <b><i>AWS EC2 Web Hosting :</i></b><br>
       Automated deployment using Apache, shell scripts, and MFA‑secured access on AWS EC2.
     </td>
     <td align="center">
