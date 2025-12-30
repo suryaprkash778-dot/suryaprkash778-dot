@@ -150,22 +150,23 @@
 
 
 
+
+
 ## 🎥 ***My latest blog posts :***
-
 <div align="center">
-
 <table>
   <tr>
-    <td align="center" width="400">
-      <a href="YOUR_DEV_TO_POST_URL">
-        <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/blog_preview.png" width="100%" style="border-radius:15px;"/>
+    <td align="center" width="350">
+      <a href="https://dev.to/im_surya_prakash/data-science-ml-and-why-im-learning-in-public-23ga">
+        <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png" width="100%" style="border-radius:15px;"/>
       </a>
       <br />
-      <b>🚀 Bridging the Gap: Data Science, ML, and Real-World Impact</b>
+      <b>🚀 Data Science, ML, and Why I'm Learning in Public</b>
       <br />
-      <i>Exploring the intersection of academic theory and functional AI code.</i>
+      <i>A deep dive into bridging the gap between academic theory and functional AI code.</i>
       <br />
-      <a href="YOUR_DEV_TO_POST_URL">
+      <br />
+      <a href="https://dev.to/im_surya_prakash/data-science-ml-and-why-im-learning-in-public-23ga">
         <img src="https://img.shields.io/badge/Read%20on%20Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" />
       </a>
     </td>
@@ -173,6 +174,7 @@
 </table>
 
 </div>
+
 
 
 
