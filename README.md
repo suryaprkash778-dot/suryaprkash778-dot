@@ -150,7 +150,29 @@
 
 
 
+## 🎥 ***My latest blog posts :***
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="400">
+      <a href="YOUR_DEV_TO_POST_URL">
+        <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/blog_preview.png" width="100%" style="border-radius:15px;"/>
+      </a>
+      <br />
+      <b>🚀 Bridging the Gap: Data Science, ML, and Real-World Impact</b>
+      <br />
+      <i>Exploring the intersection of academic theory and functional AI code.</i>
+      <br />
+      <a href="YOUR_DEV_TO_POST_URL">
+        <img src="https://img.shields.io/badge/Read%20on%20Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
