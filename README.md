@@ -55,27 +55,27 @@
 <div align="center">
 
   <a href="https://github.com/_imSuryaPrakash" target="_blank">
-    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/github.svg" width="50" height="60"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/github.svg" width="60" height="60"/>
   </a>
 
   <a href="https://www.linkedin.com/in/surya-prakash-sharma-329a122b7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/LinkedIn_icon_circle.svg" width="50" height="60"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/LinkedIn_icon_circle.svg" width="60" height="60"/>
   </a>
 
   <a href="https://instagram.com/_imSuryaPrakash" target="_blank">
-    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/instagram.svg" width="50" height="60"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/instagram.svg" width="60" height="60"/>
   </a>
 
   <a href="mailto:surya.prakash@example.com?subject=Hello%20Surya!" target="_blank">
-    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/gmail.svg" width="50" height="60"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/gmail.svg" width="60" height="60"/>
   </a>
 
   <a href="https://x.com/_imSuryaPrakash" target="_blank">
-    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/twitter-x-logo-black-round-20851.svg" width="50" height="60"/>
+    <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/twitter-x-logo-black-round-20851.svg" width="60" height="60"/>
   </a>
 
   <a href="https://dev.to/im_surya_prakash" target="_blank">
-    <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/icons/devto.svg" width="50" height="60"/>
+    <img src="https://github.com/suryaprkash778-dot/suryaprkash778-dot/blob/main/My_readme/icons/devto.svg" width="60" height="60"/>
   </a>
 
 </div>
