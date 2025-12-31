@@ -160,7 +160,7 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="350">
+    <td align="center" width="335">
       <a href="https://dev.to/im_surya_prakash/data-science-ml-and-why-im-learning-in-public-23ga">
         <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png" width="100%" style="border-radius:15px;"/>
       </a>
