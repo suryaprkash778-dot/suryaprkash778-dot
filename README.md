@@ -17,7 +17,7 @@
 
 
 
-## 👋 ***About Me :-*** 
+## 👋 ***About Me :*** 
 
 <!--Sticker aside-->
 <div>
@@ -35,7 +35,7 @@
 - ☕ Coffee lover who codes better with a *fresh brew*.
 
 
-## 💻 ***Tech Stack :-***
+## 💻 ***Tech Stack :***
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/python.svg" width="60"/>
@@ -50,7 +50,7 @@
 </p>
 
 
-## 🤝 ***Let's be friends and get connected! :-*** 
+## 🤝 ***Let's be friends and get connected! :*** 
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 
 
 
-## 📊 ***My GitHub Stats :-***
+## 📊 ***My GitHub Stats :***
 
 <!-- Top row: Streak + Top Languages -->
 <table align="center">
