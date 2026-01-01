@@ -35,7 +35,7 @@
 - ☕ Coffee lover who codes better with a *fresh brew*.
 
 
-## 💻 ***Tech Stack :***
+## 💻 ***Tech Stack :-***
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/main/My_readme/icons/python.svg" width="60"/>
