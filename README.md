@@ -190,7 +190,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=suryaprkash778-dot&icon=0&color=0)](https://visitcount.itsvg.in)  
 
+<img src="My_readme/tenor.gif" alt="Description of the GIF" width="400">
+
 ### ✨ ***Thank you for visiting my profile! Let’s build something amazing together***. ✨
+
 
 <br/>
 
