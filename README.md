@@ -82,39 +82,17 @@
 
 
 
-## 📊 ***My GitHub Stats :***
-
-<!-- Top row: Streak + Top Languages -->
-<table align="center">
-  <tr>
-    <td>
-      <img 
-        height="195"
-        src="https://nirzak-streak-stats.vercel.app/?user=suryaprkash778-dot&background=0d1117&stroke=ffffff&ring=39c5f4&fire=39c5f4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=20E2B8&sideLabels=20E2B8&dates=ffffff&hide_border=false&border_radius=30&border=39c5f4&theme=tokyonight"
-        alt="Surya's GitHub Streak"
-      />
-    </td>
-    <td>
-      <img 
-        height="195"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprkash778-dot&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=20E2B8&text_color=ffffff&border_color=39c5f4&border_radius=30&theme=tokyonight"
-        alt="Surya's Top Languages"
-      />
-    </td>
-  </tr>
-</table>
-
-
+## 🌀 ***Contribution Energy :***
 
 
 <div align="center">
 
-  <!-- GitHub Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=suryaprkash778-dot&theme=github-light&hide_border=true&area=true&area_color=0078D4&line=0078D4&point=FF6B35" 
-    alt="GitHub Activity Graph of Surya Prakash"
-    width="95%"
-  />
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0GiS0/0GiS0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0GiS0/0GiS0/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0GiS0/0GiS0/output/github-contribution-grid-snake.svg">
+  </picture>
 
 </div>
 
