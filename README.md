@@ -85,27 +85,19 @@
 ## 🌀 ***Contribution Energy :***
 
 
-<div align="center">
 
-  <!-- Contribution Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0GiS0/0GiS0/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0GiS0/0GiS0/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0GiS0/0GiS0/output/github-contribution-grid-snake.svg">
-  </picture>
-
-</div>
 
 
 <div align="center" width="50" dir="auto">
   <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/output/pacman-contribution-graph.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/output/pacman-contribution-graph.svg" style="visibility: visible; max-width: 100%;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/output/pacman-contribution-graph-dark.svg?v=1">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/output/pacman-contribution-graph.svg?v=1">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/output/pacman-contribution-graph.svg?v=1" style="visibility: visible; max-width: 100%;">
     </picture>
   </themed-picture>
 </div>
+
 
 ## 🚀 ***Flagship Projects :*** 
 
