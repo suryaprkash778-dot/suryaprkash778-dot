@@ -91,9 +91,9 @@
 <div align="center" width="50" dir="auto">
   <themed-picture data-catalyst-inline="true" data-catalyst="" style="visibility: visible;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/output/pacman-contribution-graph-dark.svg?v=1">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/output/pacman-contribution-graph.svg?v=1">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/output/pacman-contribution-graph.svg?v=1" style="visibility: visible; max-width: 100%;">
+      <div align="center" width="50" dir="auto">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/suryaprkash778-dot/suryaprkash778-dot/output/pacman-contribution-graph.svg?v=2" style="max-width: 100%;">
+</div>
     </picture>
   </themed-picture>
 </div>
