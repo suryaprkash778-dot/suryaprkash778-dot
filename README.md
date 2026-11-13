@@ -121,7 +121,7 @@
 
 
 
-## 🚀 ***Featured Projects :*** 
+## 🚀 ***Flagship Projects :*** 
 
 <table>
   <tr>
