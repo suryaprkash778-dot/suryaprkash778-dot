@@ -160,7 +160,7 @@
     <!-- SECOND BLOG POST -->
     <td align="center" width="290">
       <a href="https://dev.to/im_surya_prakash/cheat-sheet-for-your-first-open-source-contribution-3gl1">
-        <img src="YOUR_NEW_COVER_IMAGE_URL" width="100%" style="border-radius:15px;"/>
+        <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1lfwlg0fycehn4a9wzmm.png" width="100%" style="border-radius:15px;"/>
       </a>
       <br />
       <b>🐙 Cheat Sheet for Your First Open Source Contribution</b>
